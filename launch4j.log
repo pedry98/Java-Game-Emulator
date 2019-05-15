@@ -1,0 +1,84 @@
+
+
+Version:	3.10
+CmdLine:	C:\Users\Administrator\Documents\NetBeansProjects\GSN\gsn.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Administrator\Documents\NetBeansProjects\GSN\.
+Java min ver:	1.7.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (not found)
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (not found)
+Ignore:		1.8.0_111
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_141
+Check launcher:	C:\Program Files\Java\jre1.8.0_141\bin\javaw.exe (OK)
+Match:		1.8.0_141
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_144
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (not found)
+Ignore:		1.8.0_144
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_141
+Ignore:		1.8.0_141
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_141 (64-bit)
+Main class:	gsn.GSN
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\mysql-connector-java-5.1.23-bin.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\eclipselink.jar
+Add classpath:	lib\javax.persistence_2.1.0.v201304241213.jar
+Add classpath:	lib\org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar
+Add classpath:	lib\javax.mail.jar
+Add classpath:	lib\activation.jar
+Launcher:	C:\Program Files\Java\jre1.8.0_141\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Administrator\Documents\NetBeansProjects\GSN\gsn.exe;lib\AbsoluteLayout.jar;lib\mysql-connector-java-5.1.23-bin.jar;lib\beansbinding-1.2.1.jar;lib\eclipselink.jar;lib\javax.persistence_2.1.0.v201304241213.jar;lib\org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar;lib\javax.mail.jar;lib\activation.jar" gsn.GSN
+Args length:	341/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	C:\Users\Administrator\Documents\NetBeansProjects\GSN\gsn.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Administrator\Documents\NetBeansProjects\GSN\.
+Java min ver:	1.7.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (not found)
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (not found)
+Ignore:		1.8.0_111
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_141
+Check launcher:	C:\Program Files\Java\jre1.8.0_141\bin\javaw.exe (OK)
+Match:		1.8.0_141
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_144
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (not found)
+Ignore:		1.8.0_144
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_141
+Ignore:		1.8.0_141
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_141 (64-bit)
+Main class:	gsn.GSN
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\mysql-connector-java-5.1.23-bin.jar
+Add classpath:	lib\beansbinding-1.2.1.jar
+Add classpath:	lib\eclipselink.jar
+Add classpath:	lib\javax.persistence_2.1.0.v201304241213.jar
+Add classpath:	lib\org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar
+Add classpath:	lib\javax.mail.jar
+Add classpath:	lib\activation.jar
+Launcher:	C:\Program Files\Java\jre1.8.0_141\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Administrator\Documents\NetBeansProjects\GSN\gsn.exe;lib\AbsoluteLayout.jar;lib\mysql-connector-java-5.1.23-bin.jar;lib\beansbinding-1.2.1.jar;lib\eclipselink.jar;lib\javax.persistence_2.1.0.v201304241213.jar;lib\org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar;lib\javax.mail.jar;lib\activation.jar" gsn.GSN
+Args length:	341/32768 chars
+Exit code:	0
